@@ -2,17 +2,14 @@
 
 
 
-
+https://www.linkedin.com/in/sohail-sadiq-4320611a6/
+https://www.facebook.com/0xsohail
+https://instagram.com/0xsohail?utm_medium=copy_link
 ### Hi there 👋
 
 
 
 - 🔭 I’m currently working on kotlin
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with python programming
-- 💬 Ask me about anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for help in cybersecurity
 -->
