@@ -2,9 +2,8 @@
 
 
 
-https://www.linkedin.com/in/sohail-sadiq-4320611a6/
-https://www.facebook.com/0xsohail
-https://instagram.com/0xsohail?utm_medium=copy_link
+<a href="https://instagram.com/0xsohail?utm_medium=copy_link"><i class="fa fa-social-icon"></i> </a>
+
 ### Hi there 👋
 
 
