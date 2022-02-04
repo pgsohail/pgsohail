@@ -18,7 +18,7 @@
 </a>
 <br>
 <br>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b4538f92df35bf84aa91954b7d4206788d8530998856adcde027729a99fb3395/68747470733a2f2f692e6962622e636f2f463338463231522f4c696e6b6564496e2e6a7067"><img src="https://camo.githubusercontent.com/b4538f92df35bf84aa91954b7d4206788d8530998856adcde027729a99fb3395/68747470733a2f2f692e6962622e636f2f463338463231522f4c696e6b6564496e2e6a7067" alt="" data-canonical-src="https://i.ibb.co/F38F21R/LinkedIn.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" </a></p>
 <p dir="auto">I’m a Front-End Developer located in Pakistan. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences+cybersecurity.
 
 Well-organised person, problem solver, independent employee with high attention to detail. Fan of MMA, outdoor activities, TV series and English literature.
