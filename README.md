@@ -11,7 +11,7 @@
   <img align="left" width="26px" src="https://camo.githubusercontent.com/9850c8b384d81160ae0c938699233a9756aa0296e630a13d3ea4269b80c9b721/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34362f30322f63622f34363032636263313839363764613963316562613734353239303563643939622e706e67" data-canonical-src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" style="max-width: 100%;">
 </a>
 <a href="https://www.facebook.com/0xsohail" rel="nofollow">
-  <img align="left" width="26px" src="https://www.freepik.com/premium-vector/facebook-background-facebook-icon-social-media-icons-realistic-facebook-app-set-logo-vector-zaporizhzhia-ukraine-may-10-2021_16494872.htm" data-canonical-src="https://www.freepik.com/free-icon/facebook-link_694830.htm" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/04/facebook-icon.png" data-canonical-src="https://www.freepik.com/free-icon/facebook-link_694830.htm" style="max-width: 100%;">
 </a>
 <a href="https://instagram.com/0xsohail?utm_medium=copy_link" rel="nofollow">
   <img align="left" width="26px" src="https://camo.githubusercontent.com/c675a744c9ed164d23975996597f0b75e65cf5094fddde41c24f6854c39a05a0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61352f496e7374616772616d5f69636f6e2e706e672f3130323470782d496e7374616772616d5f69636f6e2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width: 100%;">
