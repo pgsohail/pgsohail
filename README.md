@@ -33,7 +33,7 @@ Well-organised person, problem solver, independent employee with high attention 
 Interested in the entire frontend spectrum and working on ambitious projects with positive people.
  <h3 dir="auto"><a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a> A little more about me...</h3>
  
-<pre><span class="pl-k">const</span> <span class="pl-s1">thai</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
+<div class="highlight highlight-source-js position-relative overflow-auto"><pre><span class="pl-k">const</span> <span class="pl-s1">thai</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">pronouns</span>: <span class="pl-s">"she"</span> <span class="pl-c1">|</span> <span class="pl-s">"her"</span><span class="pl-kos">,</span>
   <span class="pl-c1">code</span>: <span class="pl-kos">[</span><span class="pl-v">Javascript</span><span class="pl-kos">,</span> <span class="pl-v">Typescript</span><span class="pl-kos">,</span> <span class="pl-c1">HTML</span><span class="pl-kos">,</span> <span class="pl-c1">CSS</span><span class="pl-kos">,</span> <span class="pl-v">Ruby</span><span class="pl-kos">,</span> <span class="pl-v">Python</span><span class="pl-kos">,</span> <span class="pl-v">Java</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
   <span class="pl-c1">tools</span>: <span class="pl-kos">[</span><span class="pl-v">React</span><span class="pl-kos">,</span> <span class="pl-v">Redux</span><span class="pl-kos">,</span> <span class="pl-v">Node</span><span class="pl-kos">,</span> <span class="pl-v">Storybook</span><span class="pl-kos">,</span> <span class="pl-v">Styled</span><span class="pl-c1">-</span><span class="pl-v">Components</span><span class="pl-kos">,</span> <span class="pl-v">Jest</span><span class="pl-kos">,</span> <span class="pl-v">Docker</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
@@ -44,7 +44,27 @@ Interested in the entire frontend spectrum and working on ambitious projects wit
                         <span class="pl-c1">mentor</span>: <span class="pl-s">"EducaTRANSforma"</span>
                       <span class="pl-kos">}</span><span class="pl-kos">,</span>
  <span class="pl-c1">challenge</span>: <span class="pl-s">"I am doing the #100DaysOfCode challenge focused on react and typescript"</span>
-<span class="pl-kos">}</span></pre>
+<span class="pl-kos">}</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="const thai = {
+  pronouns: &quot;she&quot; | &quot;her&quot;,
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: [&quot;microservices&quot;, &quot;event-driven&quot;, &quot;design system pattern&quot;],
+  techCommunities: {
+                        coorganizer: &quot;AfroPython&quot;,
+                        speaker: &quot;Latinity&quot;,
+                        mentor: &quot;EducaTRANSforma&quot;
+                      },
+ challenge: &quot;I am doing the #100DaysOfCode challenge focused on react and typescript&quot;
+}" tabindex="0" role="button" style="display: inherit;">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
+    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success m-2 d-none">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
 
 
   Sohail is working towards empowering communities via Open Source and education. He finds passion in coding and hacking. He is currently a Junior Developer <a href="https://www.fiverr.com/" rel="nofollow">at Fiverr</a>.<br>
