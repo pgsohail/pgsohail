@@ -4,24 +4,22 @@
  
  
 <a href="https://www.linkedin.com/in/sohail-sadiq-4320611a6/" rel="nofollow">
+ <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" style="max-width: 100%;">
+ </a>
  
 <a href="https://twitter.com/sohail3501" rel="nofollow">
   <img align="left" width="26px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" data-canonical-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;">
 </a>
-<a href="mailto:ssohailssadiq@gmail.com">
-  <img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg" data-canonical-src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="max-width: 100%;">
-</a>
-<a href="https://www.youtube.com/channel/UCHfHkt5T9cNFpmeyFsM4etA" rel="nofollow">
-  <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4L3_YNZN7y1qX4VAnkoZGG1ek_C6VNEMoHrlgp2ZMx4gAXxywSIbS1SIhYIBI2AVDieE&usqp=CAU" data-canonical-src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" style="max-width: 100%;">
-</a>
+
+
  <a href="https://www.linkedin.com/in/sohail-sadiq-4320611a6/" rel="nofollow">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;">
  </a>
-<a href="https://www.facebook.com/0xsohail" rel="nofollow">
-  <img align="left" width="26px" src="https://www.kindpng.com/picc/m/217-2173031_transparent-facebook-icons-png-transparent-facebook-logo-circle.png" data-canonical-src="https://www.freepik.com/free-icon/facebook-link_694830.htm" style="max-width: 100%;">
+<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA" rel="nofollow">
+  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
 </a>
 <a href="https://instagram.com/0xsohail?utm_medium=copy_link" rel="nofollow">
-  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width: 100%;">
 </a>
 <br>
 <br>
