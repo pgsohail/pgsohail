@@ -21,7 +21,7 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" </a></p>
 <p dir="auto">I’m a Front-End Developer located in Pakistan. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences+cybersecurity.
 
-Well-organised person, problem solver, independent employee with high attention to detail. Fan of MMA, outdoor activities, TV series and English literature.
+Well-organised person, problem solver, independent employee with high attention to detail. Fan of Football, outdoor activities, TV series and English literature.
 
 Interested in the entire frontend spectrum and working on ambitious projects with positive people.
 
