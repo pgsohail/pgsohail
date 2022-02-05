@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/sohail-sadiq-4320611a6/" rel="nofollow">
  
 <a href="https://twitter.com/sohail3501" rel="nofollow">
-  <img align="left" width="26px" src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320195967937423316.png" data-canonical-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" data-canonical-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;">
 </a>
 <a href="mailto:ssohailssadiq@gmail.com">
   <img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg" data-canonical-src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="max-width: 100%;">
