@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/sohail-sadiq-4320611a6/" rel="nofollow">
  
 <a href="https://twitter.com/sohail3501" rel="nofollow">
-  <img align="left" width="26px" src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320195967937423316.png" data-canonical-src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320195967937423316.png" data-canonical-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" style="max-width: 100%;">
 </a>
 <a href="mailto:ssohailssadiq@gmail.com">
   <img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg" data-canonical-src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="max-width: 100%;">
@@ -10,11 +10,14 @@
 <a href="https://www.youtube.com/channel/UCHfHkt5T9cNFpmeyFsM4etA" rel="nofollow">
   <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4L3_YNZN7y1qX4VAnkoZGG1ek_C6VNEMoHrlgp2ZMx4gAXxywSIbS1SIhYIBI2AVDieE&usqp=CAU" data-canonical-src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" style="max-width: 100%;">
 </a>
+ <a href="https://www.linkedin.com/in/sohail-sadiq-4320611a6/" rel="nofollow">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" style="max-width: 100%;">
+ </a>
 <a href="https://www.facebook.com/0xsohail" rel="nofollow">
   <img align="left" width="26px" src="https://www.kindpng.com/picc/m/217-2173031_transparent-facebook-icons-png-transparent-facebook-logo-circle.png" data-canonical-src="https://www.freepik.com/free-icon/facebook-link_694830.htm" style="max-width: 100%;">
 </a>
 <a href="https://instagram.com/0xsohail?utm_medium=copy_link" rel="nofollow">
-  <img align="left" width="26px" src="https://camo.githubusercontent.com/c675a744c9ed164d23975996597f0b75e65cf5094fddde41c24f6854c39a05a0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61352f496e7374616772616d5f69636f6e2e706e672f3130323470782d496e7374616772616d5f69636f6e2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width: 100%;">
 </a>
 <br>
 <br>
