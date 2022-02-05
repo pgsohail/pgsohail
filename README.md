@@ -2,16 +2,16 @@
 <a href="https://www.linkedin.com/in/sohail-sadiq-4320611a6/" rel="nofollow">
  
 <a href="https://twitter.com/sohail3501" rel="nofollow">
-  <img align="left" width="26px" src="https://camo.githubusercontent.com/a579ecf0b6e9928bb8671f86b378d8dc9447ce874cfa6be6ddc7450a6f2d7b0f/68747470733a2f2f6c6f676f646f776e6c6f61642e6f72672f77702d636f6e74656e742f75706c6f6164732f323031342f30392f747769747465722d6c6f676f2d362e706e67" data-canonical-src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320195967937423316.png" data-canonical-src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" style="max-width: 100%;">
 </a>
 <a href="mailto:ssohailssadiq@gmail.com">
-  <img align="left" width="26px" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" data-canonical-src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://cdn4.vectorstock.com/i/1000x1000/23/08/gmail-new-icon-vector-34182308.jpg" data-canonical-src="https://cdn-icons-png.flaticon.com/512/281/281769.png" style="max-width: 100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCHfHkt5T9cNFpmeyFsM4etA" rel="nofollow">
-  <img align="left" width="26px" src="https://camo.githubusercontent.com/9850c8b384d81160ae0c938699233a9756aa0296e630a13d3ea4269b80c9b721/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34362f30322f63622f34363032636263313839363764613963316562613734353239303563643939622e706e67" data-canonical-src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4L3_YNZN7y1qX4VAnkoZGG1ek_C6VNEMoHrlgp2ZMx4gAXxywSIbS1SIhYIBI2AVDieE&usqp=CAU" data-canonical-src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" style="max-width: 100%;">
 </a>
 <a href="https://www.facebook.com/0xsohail" rel="nofollow">
-  <img align="left" width="26px" src="https://brandlogos.net/wp-content/uploads/2021/04/facebook-icon.png" data-canonical-src="https://www.freepik.com/free-icon/facebook-link_694830.htm" style="max-width: 100%;">
+  <img align="left" width="26px" src="https://www.kindpng.com/picc/m/217-2173031_transparent-facebook-icons-png-transparent-facebook-logo-circle.png" data-canonical-src="https://www.freepik.com/free-icon/facebook-link_694830.htm" style="max-width: 100%;">
 </a>
 <a href="https://instagram.com/0xsohail?utm_medium=copy_link" rel="nofollow">
   <img align="left" width="26px" src="https://camo.githubusercontent.com/c675a744c9ed164d23975996597f0b75e65cf5094fddde41c24f6854c39a05a0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f612f61352f496e7374616772616d5f69636f6e2e706e672f3130323470782d496e7374616772616d5f69636f6e2e706e67" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" style="max-width: 100%;">
