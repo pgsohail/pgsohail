@@ -30,6 +30,7 @@
 Well-organised person, problem solver, independent employee with high attention to detail. Fan of Football, outdoor activities, TV series and English literature.
 
 Interested in the entire frontend spectrum and working on ambitious projects with positive people.
+ <img src="https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" style="max-width: 100%;">
 
 
   Sohail is working towards empowering communities via Open Source and education. He finds passion in coding and hacking. He is currently a Junior Developer <a href="https://www.fiverr.com/" rel="nofollow">at Fiverr</a>.<br>
