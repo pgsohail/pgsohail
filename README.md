@@ -22,7 +22,6 @@
 </a>
 </p>
 <br>
-<br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" </a></p>
 <p dir="auto">I’m a Full stack Developer located in Pakistan. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences+cybersecurity.
 
