@@ -39,7 +39,7 @@ Interested in the entire frontend spectrum and working on ambitious projects wit
 </p>
 </article>
 <details>
-<summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji>CLICK HERE</summary>
+<summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary>
 <br>
  <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="highlight highlight-source-shell position-relative overflow-auto"><pre><span class="pl-k">&gt;</span> neofetch</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="> neofetch" tabindex="0" role="button" style="display: inherit;">
