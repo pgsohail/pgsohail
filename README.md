@@ -32,55 +32,7 @@ Well-organised person, problem solver, independent employee with high attention 
 
 Interested in the entire frontend spectrum and working on ambitious projects with positive people.
  <h3 dir="auto"><a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966"><img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;"></a> A little more about my coding life.</h3>
- <article class="markdown-body entry-content container-lg f5" itemprop="text"><div class="highlight highlight-source-shell position-relative overflow-auto"><pre><span class="pl-k">&gt;</span> neofetch</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="> neofetch" tabindex="0" role="button" style="display: inherit;">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none m-2">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div>
-
-<div class="highlight highlight-source-cs position-relative overflow-auto"><pre><span class="pl-smi">pgsohail@github</span>
-<span class="pl-k">------------------------</span><span class="pl-k">-</span>
-<span class="pl-en">OS</span>: <span class="pl-smi">Arch</span> <span class="pl-smi">Linux</span> <span class="pl-smi">x86_64</span>
-<span class="pl-en">Shell</span>: <span class="pl-smi"></span> <span class="pl-c1">5</span><span class="pl-c1">.</span><span class="pl-c1">11</span>
-<span class="pl-en">Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
-<span class="pl-en">Location</span>: <span class="pl-smi">punjab</span>, <span class="pl-smi">Pakistan</span>
-<span class="pl-en">Frameworks</span>: <span class="pl-smi">React</span>
-<span class="pl-en">Languages</span>: <span class="pl-smi">JavaScript</span>, <span class="pl-smi">Python</span>,
-           <span class="pl-smi">HTML</span>, <span class="pl-smi">CSS</span>
-<span class="pl-en">Learning</span>: <span class="pl-smi">Node</span>.<span class="pl-smi">js</span>, <span class="pl-smi">Express</span>, <span class="pl-smi">MEAN Stack</span>,
-          <span class="pl-smi">Three</span>.<span class="pl-smi">js</span>, <span class="pl-smi">CPP</span>
-<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting</span>, <span class="pl-smi">football</span>, <span class="pl-smi">Gaming</span>
-<span class="pl-en">Commits</span>: <span class="pl-c1">101</span>
-<span class="pl-en">Stars</span>: <span class="pl-c1">17</span>
-<span class="pl-en">Discord</span>: <span class="pl-smi">pgsohail</span><span class="pl-c1"></span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pgsohail@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: punjab, Pakistan
-Frameworks: React
-Languages: JavaScript, Python,
-           HTML, CSS
-Learning: Node.js, Express, MEAN Stack,
-          Three.js, CPP
-Hobbies: drifting, footbal, Gaming
-Commits: 101
-Stars: 17
-Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success m-2 d-none">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-    </clipboard-copy>
-  </div></div>
+ 
 <p align="left" dir="auto">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/82b1ae3530792b0d34f98b480ba5e4306677228a2c29dad1a7b618a1388f618e/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3437343334322f3030303030303f746578743d2b"><img alt="#474342" src="https://camo.githubusercontent.com/82b1ae3530792b0d34f98b480ba5e4306677228a2c29dad1a7b618a1388f618e/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f3437343334322f3030303030303f746578743d2b" width="25" height="20" data-canonical-src="https://via.placeholder.com/15/474342/000000?text=+" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0a05d154f25dae6b9dc0be0e1507d5cb577737999080d1a1b34e301461ffbd85/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6662656466362f3030303030303f746578743d2b"><img alt="#fbedf6" src="https://camo.githubusercontent.com/0a05d154f25dae6b9dc0be0e1507d5cb577737999080d1a1b34e301461ffbd85/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6662656466362f3030303030303f746578743d2b" width="25" height="20" data-canonical-src="https://via.placeholder.com/15/fbedf6/000000?text=+" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6bccbdd6c2a1c8effb2f112d2df3a3fb4854deb5276c14839341a8b68a613cf6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6339353934642f3030303030303f746578743d2b"><img alt="#c9594d" src="https://camo.githubusercontent.com/6bccbdd6c2a1c8effb2f112d2df3a3fb4854deb5276c14839341a8b68a613cf6/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6339353934642f3030303030303f746578743d2b" width="25" height="20" data-canonical-src="https://via.placeholder.com/15/c9594d/000000?text=+" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a9620dbcef8a67eb0b3d6cecf5ec7ce577d98122457bef5ec9db56c7f747a113/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6638623962322f3030303030303f746578743d2b"><img alt="#f8b9b2" src="https://camo.githubusercontent.com/a9620dbcef8a67eb0b3d6cecf5ec7ce577d98122457bef5ec9db56c7f747a113/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6638623962322f3030303030303f746578743d2b" width="25" height="20" data-canonical-src="https://via.placeholder.com/15/f8b9b2/000000?text=+" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/225f60903a2a81ce4ada0f119c3db7859e5b5eceeb6afc117ba7fd1a865a7d75/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6165396339642f3030303030303f746578743d2b"><img alt="#ae9c9d" src="https://camo.githubusercontent.com/225f60903a2a81ce4ada0f119c3db7859e5b5eceeb6afc117ba7fd1a865a7d75/68747470733a2f2f7669612e706c616365686f6c6465722e636f6d2f31352f6165396339642f3030303030303f746578743d2b" width="25" height="20" data-canonical-src="https://via.placeholder.com/15/ae9c9d/000000?text=+" style="max-width: 100%;"></a>
