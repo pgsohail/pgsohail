@@ -42,7 +42,7 @@ Interested in the entire frontend spectrum and working on ambitious projects wit
 </svg>
     </clipboard-copy>
   </div></div>
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/797a1ca23450caf95d426b37cd256c213bf4050e43fb6522e5d27dbf7d12dde1/68747470733a2f2f692e726564642e69742f6837646165346f30756b3436312e6a7067"><img align="left" src="https://camo.githubusercontent.com/797a1ca23450caf95d426b37cd256c213bf4050e43fb6522e5d27dbf7d12dde1/68747470733a2f2f692e726564642e69742f6837646165346f30756b3436312e6a7067" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" data-canonical-src="https://i.redd.it/h7dae4o0uk461.jpg" style="max-width: 100%;"></a></p> 
+
 <div class="highlight highlight-source-cs position-relative overflow-auto"><pre><span class="pl-smi">anordinaryusername@github</span>
 <span class="pl-k">------------------------</span><span class="pl-k">-</span>
 <span class="pl-en">OS</span>: <span class="pl-smi">Arch</span> <span class="pl-smi">Linux</span> <span class="pl-smi">x86_64</span>
