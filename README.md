@@ -43,36 +43,36 @@ Interested in the entire frontend spectrum and working on ambitious projects wit
     </clipboard-copy>
   </div></div>
 
-<div class="highlight highlight-source-cs position-relative overflow-auto"><pre><span class="pl-smi">anordinaryusername@github</span>
+<div class="highlight highlight-source-cs position-relative overflow-auto"><pre><span class="pl-smi">pgsohail@github</span>
 <span class="pl-k">------------------------</span><span class="pl-k">-</span>
 <span class="pl-en">OS</span>: <span class="pl-smi">Arch</span> <span class="pl-smi">Linux</span> <span class="pl-smi">x86_64</span>
-<span class="pl-en">Shell</span>: <span class="pl-smi">zsh</span> <span class="pl-c1">5</span><span class="pl-c1">.</span><span class="pl-c1">8</span>
+<span class="pl-en">Shell</span>: <span class="pl-smi"></span> <span class="pl-c1">5</span><span class="pl-c1">.</span><span class="pl-c1">11</span>
 <span class="pl-en">Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
-<span class="pl-en">Location</span>: <span class="pl-smi">Artesia</span>, <span class="pl-smi">CA</span>
+<span class="pl-en">Location</span>: <span class="pl-smi">punjab</span>, <span class="pl-smi">Pakistan</span>
 <span class="pl-en">Frameworks</span>: <span class="pl-smi">React</span>
-<span class="pl-en">Languages</span>: <span class="pl-smi">JavaScript</span>, <span class="pl-smi">TypeScript</span>,
+<span class="pl-en">Languages</span>: <span class="pl-smi">JavaScript</span>, <span class="pl-smi">Python</span>,
            <span class="pl-smi">HTML</span>, <span class="pl-smi">CSS</span>
-<span class="pl-en">Learning</span>: <span class="pl-smi">Node</span>.<span class="pl-smi">js</span>, <span class="pl-smi">Express</span>, <span class="pl-smi">PostgreSQL</span>,
+<span class="pl-en">Learning</span>: <span class="pl-smi">Node</span>.<span class="pl-smi">js</span>, <span class="pl-smi">Express</span>, <span class="pl-smi">MEAN Stack</span>,
           <span class="pl-smi">Three</span>.<span class="pl-smi">js</span>, <span class="pl-smi">CPP</span>
-<span class="pl-en">Hobbies</span>: <span class="pl-smi">Gardening</span>, <span class="pl-smi">Cooking</span>, <span class="pl-smi">Gaming</span>
-<span class="pl-en">Commits</span>: <span class="pl-c1">968</span>
-<span class="pl-en">Stars</span>: <span class="pl-c1">14</span>
-<span class="pl-en">Discord</span>: <span class="pl-smi">RandomPotato</span>#<span class="pl-c1">1377</span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="anordinaryusername@github
+<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting</span>, <span class="pl-smi">football</span>, <span class="pl-smi">Gaming</span>
+<span class="pl-en">Commits</span>: <span class="pl-c1">101</span>
+<span class="pl-en">Stars</span>: <span class="pl-c1">17</span>
+<span class="pl-en">Discord</span>: <span class="pl-smi">pgsohail</span><span class="pl-c1"></span></pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w" value="pgsohail@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Artesia, CA
+Location: punjab, Pakistan
 Frameworks: React
-Languages: JavaScript, TypeScript,
+Languages: JavaScript, Python,
            HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
+Learning: Node.js, Express, MEAN Stack,
           Three.js, CPP
-Hobbies: Gardening, Cooking, Gaming
-Commits: 968
-Stars: 14
-Discord: RandomPotato#1377" tabindex="0" role="button" style="display: inherit;">
+Hobbies: drifting, footbal, Gaming
+Commits: 101
+Stars: 17
+Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
