@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/pgsohaill/" rel="nofollow">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" style="max-width: 100%;">
 </a>
-<a href="https://open.spotify.com/Sohail" rel="nofollow">
+<a href="https://open.spotify.com/user/313nk6642wkojkahsxakz5ry5e2y?si=iksQT_W4TjyUh5BWkrpUQQ&utm_source=copy-link" rel="nofollow">
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
 </a>
 </p>
