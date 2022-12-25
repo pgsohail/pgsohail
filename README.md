@@ -8,7 +8,7 @@
  
 <p align="center" dir="auto">
 <br>
-<a href="https://twitter.com/pgdied" rel="nofollow">
+<a href="https://twitter.com/cigarillloo" rel="nofollow">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/sohail-sadiq-07331b21a/" rel="nofollow">
