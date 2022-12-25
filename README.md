@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/sohail-sadiq-07331b21a/" rel="nofollow">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" style="max-width: 100%;">
 </a>
-<a href="https://www.instagram.com/threefivezeroone/" rel="nofollow">
+<a href="https://www.instagram.com/pgsohaill/" rel="nofollow">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" style="max-width: 100%;">
 </a>
 <a href="https://open.spotify.com/userpgsohail" rel="nofollow">
