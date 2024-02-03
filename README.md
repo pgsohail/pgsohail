@@ -1,3 +1,5 @@
+<h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
+
 <h1 align="center" dir="auto"><a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png">🤠</g-emoji>Howdy! I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sohail-sadiq-4320611a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sohail-sadiq-4320611a6?trk=profile-badge">Sohail Sadiq</a></div>
               </h1>
 
@@ -33,10 +35,29 @@
 
 
  
+<p dir="auto">
+  
 </p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" </a></p>
-<p dir="auto">I am a Full Stack Developer based in Pakistan. My deep interest lies in UI enhancements, animations, and crafting seamless, dynamic user experiences with a focus on cybersecurity. Known for my organizational skills, adept problem-solving, and as an independent worker with meticulous attention to detail. A football enthusiast, I enjoy outdoor activities, TV series, and delve into English literature. My curiosity extends across the entire frontend landscape, and I thrive on collaborating with optimistic individuals on ambitious projects.
+<p dir="auto">
+    I'm a Full Stack Developer based in Pakistan, holding a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer">COMSATS University Islamabad</a>. Additionally, I've successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer">App Academy</a>, enhancing my skills and expertise. My focus revolves around creating engaging UI effects, animations, and dynamic user experiences while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together!
+</p>
 
+<ul dir="auto">
+<li>🔭 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, & 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕.
+
+</li>
+<li>💬 𝙱𝚛𝚊𝚒𝚗𝚜𝚝𝚘𝚛𝚖 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚟𝚎𝚛 𝚝𝚎𝚌𝚑, 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜, 𝚌𝚊𝚛𝚎𝚎𝚛, 𝚊𝚗𝚍 𝚖𝚞𝚜𝚒𝚌.</li>
+<li>😄  𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛/𝙷𝚎/𝙷𝚒𝚖</li>
+<li>📝 <a href="" rel="nofollow">𝚁𝚎𝚜𝚞𝚖𝚎</a></li>
+
+<li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜</li>
+<li>💼 "𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚌𝚘𝚍𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛."
+<li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙱𝚂 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝙹𝚊𝚗𝚞𝚊𝚛𝚢 𝟸𝟶𝟸𝟺</li>
+<li>🌐  𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.
+<li>🌐 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙵𝚎𝚍𝚘𝚛𝚊
+
+<a href="https://fedoraproject.org/" rel="nofollow"></a></li>
+</ul>
 
 
 
