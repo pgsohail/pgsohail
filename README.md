@@ -12,7 +12,7 @@
 <a href="https://twitter.com/cigarillloo" rel="nofollow">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%;">
 </a>
-<a href="www.linkedin.com/in/sohail-sadiq-07331b21a" rel="nofollow">
+<a href="[www.linkedin.com/in/sohail-sadiq-07331b21a" rel="nofollow](https://www.linkedin.com/in/sohail-sadiq-4320611a6/)">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/linkedin%20(1).png" style="max-width: 100%;">
 </a>
 <a href="https://www.instagram.com/pgsohaill/" rel="nofollow">
