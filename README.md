@@ -12,7 +12,7 @@
 <a href="https://twitter.com/cigarillloo" rel="nofollow">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%;">
 </a>
-<a href="https://pk.linkedin.com/in/sohail-sadiq-4320611a6?trk=profile-badge">
+<a href="www.linkedin.com/in/sohail-sadiq-07331b21a" rel="nofollow">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/linkedin%20(1).png" style="max-width: 100%;">
 </a>
 <a href="https://www.instagram.com/pgsohaill/" rel="nofollow">
@@ -21,13 +21,13 @@
 <a href="https://open.spotify.com/user/313nk6642wkojkahsxakz5ry5e2y?si=iksQT_W4TjyUh5BWkrpUQQ&utm_source=copy-link" rel="nofollow">
   <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
 </a>
-<a href="ADD_FACEBOOK_URL_HERE" rel="nofollow">
+<a href="https://www.facebook.com/0xsohail?mibextid=LQQJ4d" rel="nofollow">
   <img alt="guilyx's Facebook" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/facebook.png" style="max-width: 100%;">
 </a>
-<a href="ADD_WHATSAPP_URL_HERE" rel="nofollow">
+<a href="https://wa.me/message/URNO6HSOQ77JN" rel="nofollow">
   <img alt="guilyx's WhatsApp" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/whatsapp%20-%20Copy.png" style="max-width: 100%;">
 </a>
-<a href="ADD_TELEGRAM_URL_HERE" rel="nofollow">
+<a href="https://t.me/pgsohail" rel="nofollow">
   <img alt="guilyx's Telegram" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/telegram%20-%20Copy.png" style="max-width: 100%;">
 </a>
 </p>
@@ -41,7 +41,7 @@
 <p dir="auto">
     I'm a Full Stack Developer based in Pakistan, holding a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer">COMSATS University Islamabad</a>. Additionally, I've successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer">App Academy</a>, enhancing my skills and expertise. My focus revolves around creating engaging UI effects, animations, and dynamic user experiences while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together!
 </p>
-
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21b8da21405c0ff9c53ceafb93e0ce16b026d18836ed697303f8a4098639831e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d652d33253243373130253230687273253230352532306d696e732d626c7565"><img src="https://camo.githubusercontent.com/21b8da21405c0ff9c53ceafb93e0ce16b026d18836ed697303f8a4098639831e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d652d33253243373130253230687273253230352532306d696e732d626c7565" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time-3%2C710%20hrs%205%20mins-blue" style="max-width: 100%;"></a></p>
 <ul dir="auto">
 <li>🔭 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, & 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕.
 
@@ -57,6 +57,7 @@
 <li>🌐 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙵𝚎𝚍𝚘𝚛𝚊
 
 <a href="https://fedoraproject.org/" rel="nofollow"></a></li>
+
 </ul>
 
 
