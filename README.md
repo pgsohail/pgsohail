@@ -35,11 +35,13 @@
  
 </p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" </a></p>
-<p dir="auto">I’m a Full stack Developer located in Pakistan. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences+cybersecurity.
+<p dir="auto">I am a Full Stack Developer based in Pakistan. My deep interest lies in UI enhancements, animations, and crafting seamless, dynamic user experiences with a focus on cybersecurity. Known for my organizational skills, adept problem-solving, and as an independent worker with meticulous attention to detail. A football enthusiast, I enjoy outdoor activities, TV series, and delve into English literature. My curiosity extends across the entire frontend landscape, and I thrive on collaborating with optimistic individuals on ambitious projects.
 
-Well-organised person, problem solver, independent employee with high attention to detail. Fan of Football, outdoor activities, TV series and English literature.
 
-Interested in the entire frontend spectrum and working on ambitious projects with positive people.
+
+
+
+
 <h3 dir="auto" style="font-family: '𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘', sans-serif;">
   <a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me">
     <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
@@ -144,9 +146,9 @@ Discord: pgsohail" tabindex="0" role="button" style="display: inherit;">
 
 </details>
 
-Sohail is working towards empowering communities via Open Source and education. He finds passion in coding and hacking. He is currently a Junior Developer <a href="https://www.fiverr.com/" rel="nofollow">at upwork</a>.<br>
-He is a Student Program Manager.<br>
-  Let’s make something special!
+Sohail Sadiq is a dedicated Full Stack Software Engineer proficient in the MERN stack and Python, actively contributing to the Open Source community and promoting education. He is currently a Self Employed Full Stack Developer at <a href="https://www.fiverr.com/" rel="nofollow"> Upwork</a>.<br>
+With a fervor for coding and ethical hacking, Sohail serves as a Junior Developer at Upwork, while also taking on the role of a Student Program Manager. Eager to collaborate and create something extraordinary, Sohail is committed to making a positive impact through technology.<br>
+  Let's connect and build together!
   <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3065fb76a2db00b0e808477d8447ca67059d6470442c76aab6bf413bcbc3c6c8/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d6b756e616c2d6b757368776168612e6b756e616c2d6b75736877616861"><img src="https://camo.githubusercontent.com/7fafe17fe428af93771c5fbcd41317a70281230725864cc48499f8beeb34103c/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d72757374792d736a2e72757374792d736a" alt="visitors" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=kunal-kushwaha.kunal-kushwaha" style="max-width: 100%;"></a></p>
 </article>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sohail-sadiq-4320611a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sohail-sadiq-4320611a6?trk=profile-badge">Sohail Sadiq</a></div>
