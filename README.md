@@ -6,7 +6,6 @@
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
   <p align="center" dir="auto">
-  <a href="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" rel="nofollow">
     
     <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="max-width: 100%;">
     
