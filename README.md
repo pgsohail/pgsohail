@@ -1,5 +1,33 @@
 <h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
 
+<animated-image data-catalyst="" style="float: right; width: 200px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" data-target="animated-image.originalLink"><img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="side Image" class="AnimatedImagePlayer-animatedImage" src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" height="auto" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="200" height="150"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play side Image" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play side Image">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="Open side Image in new window" class="AnimatedImagePlayer-button" href="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
+
+
+
 <h1 align="center" dir="auto"><a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png">🤠</g-emoji>Howdy! I'm <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sohail-sadiq-4320611a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sohail-sadiq-4320611a6?trk=profile-badge">Sohail Sadiq</a></div>
               </h1>
 
@@ -9,7 +37,7 @@
  
 <p align="center" dir="auto">
 <br>
-<a href="https://twitter.com/pgsohaill" rel="nofollow">
+<a href="https://twitter.com/cigarillloo" rel="nofollow">
   <img alt="guilyx | Twitter" width="50px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%;">
 </a>
 <a href="www.linkedin.com/in/sohail-sadiq-07331b21a" rel="nofollow">
@@ -41,7 +69,7 @@
 <p dir="auto">
     I'm a Full Stack Developer based in Pakistan, holding a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer">COMSATS University Islamabad</a>. Additionally, I've successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer">App Academy</a>, enhancing my skills and expertise. My focus revolves around creating engaging UI effects, animations, and dynamic user experiences while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together!
 </p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/21b8da21405c0ff9c53ceafb93e0ce16b026d18836ed697303f8a4098639831e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d652d33253243373130253230687273253230352532306d696e732d626c7565"><img src="https://camo.githubusercontent.com/21b8da21405c0ff9c53ceafb93e0ce16b026d18836ed697303f8a4098639831e/687474703a2f2f696d672e736869656c64732e696f2f62616467652f436f646525323054696d652d33253243373130253230687273253230352532306d696e732d626c7565" alt="Code Time" data-canonical-src="http://img.shields.io/badge/Code%20Time-3%2C710%20hrs%205%20mins-blue" style="max-width: 100%;"></a></p>
+
 <ul dir="auto">
 <li>🔭 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, & 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕.
 
@@ -57,7 +85,6 @@
 <li>🌐 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙵𝚎𝚍𝚘𝚛𝚊
 
 <a href="https://fedoraproject.org/" rel="nofollow"></a></li>
-
 </ul>
 
 
@@ -65,15 +92,11 @@
 
 
 <h3 dir="auto" style="font-family: '𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘', sans-serif;">
-  <a id="user-content--a-little-more-about-me" class="anchor" aria-hidden="true" href="#-a-little-more-about-me">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>
+ 
   <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif">
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" data-canonical-src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" style="max-width: 100%;">
   </a>
-  𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
+ 
 </h3>
 
 
