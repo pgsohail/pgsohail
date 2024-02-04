@@ -6,7 +6,7 @@
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="width: 30%;" alt="Now Playing">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="width: 35%;" alt="Now Playing">
 </p>
 
 
@@ -28,9 +28,9 @@
 <a href="https://www.facebook.com/0xsohail?mibextid=LQQJ4d" rel="nofollow">
   <img alt="guilyx's Facebook" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/facebook.png" style="max-width: 100%;">
 </a>
-<a href="https://wa.me/message/URNO6HSOQ77JN" rel="nofollow">
+<!-- <a href="https://wa.me/message/URNO6HSOQ77JN" rel="nofollow">
   <img alt="guilyx's WhatsApp" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/whatsapp%20-%20Copy.png" style="max-width: 100%;">
-</a>
+</a> -->
 <a href="https://t.me/pgsohail" rel="nofollow">
   <img alt="guilyx's Telegram" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/telegram%20-%20Copy.png" style="max-width: 100%;">
 </a>
