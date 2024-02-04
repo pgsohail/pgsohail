@@ -1,6 +1,17 @@
 <h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
 
-<h1 align="center" dir="auto"><a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sohail-sadiq-4320611a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sohail-sadiq-4320611a6?trk=profile-badge">Sohail Sadiq</a></div>
+<h1 align="center">
+    <a id="user-content--howdy-im-sy-rashid" class="anchor" aria-hidden="true" href="#-howdy-im-sy-rashid">
+        <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+            <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
+        </svg>
+    </a>
+    <g-emoji class="g-emoji" alias="cowboy_hat_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png">🤠</g-emoji> Hi! I am 
+    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="dark" data-type="VERTICAL" data-vanity="sohail-sadiq-4320611a6" data-version="v1">
+        <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/sohail-sadiq-4320611a6?trk=profile-badge">Sohail Sadiq</a>
+    </div>
+</h1>
+
               </h1>
 <h5 align="center" dir="auto"><a id="user-content----️i-dont-trust-people-who-dont-write-sql-queries-in-uppercase️--" class="anchor" aria-hidden="true" tabindex="-1" href="#---️i-dont-trust-people-who-dont-write-sql-queries-in-uppercase️--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
@@ -27,10 +38,12 @@
 </a>
 <a href="https://www.facebook.com/0xsohail?mibextid=LQQJ4d" rel="nofollow">
   <img alt="guilyx's Facebook" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/facebook.png" style="max-width: 100%;">
+<!--
 </a>
 <a href="https://wa.me/message/URNO6HSOQ77JN" rel="nofollow">
   <img alt="guilyx's WhatsApp" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/whatsapp%20-%20Copy.png" style="max-width: 100%;">
 </a>
+-->
 <a href="https://t.me/pgsohail" rel="nofollow">
   <img alt="guilyx's Telegram" width="50px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/telegram%20-%20Copy.png" style="max-width: 100%;">
 </a>
