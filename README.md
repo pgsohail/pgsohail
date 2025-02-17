@@ -54,9 +54,7 @@
 <p dir="auto">
   
 </p>
-<p dir="auto">
-    I'm a Full Stack Developer based in Pakistan, holding a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer">COMSATS University Islamabad</a>. Additionally, I've successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer">App Academy</a>, enhancing my skills and expertise. My focus revolves around creating engaging UI effects, animations, and dynamic user experiences while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together!
-</p>
+<p dir="auto"> I'm a Full Stack Developer based in London, currently pursuing a Master's degree in Artificial Intelligence from a university in London. I hold a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer">COMSATS University Islamabad</a> and have successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer">App Academy</a>, further enhancing my skills and expertise. My focus revolves around creating engaging UI effects, animations, and dynamic user experiences while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together! </p>
 
 <ul dir="auto">
 <li>🔭 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, & 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕.
