@@ -7,59 +7,55 @@
   <!-- Minimal Animated Typing Line -->
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=E52D27&center=true&vCenter=true&width=550&lines=%E2%9A%A1%EF%B8%8F+Full-Stack+%26+Blockchain+Developer;Rust+%7C+Python+%7C+MultiversX+%7C+React+%7C+Flutter;MSc+Artificial+Intelligence+%40+Univ.+of+East+London;I+don't+trust+people+who+write+SQL+in+lowercase" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=E52D27&center=true&vCenter=true&width=550&lines=%E2%9A%A1%EF%B8%8F+Full-Stack+%26+Blockchain+Developer;Rust+%7C+Python+%7C+MultiversX+%7C+React+%7C+Flutter;MSc+Artificial+Intelligence+%40+Univ.+of+East+London;btw+I+use+a+MacBook+%F0%9F%8D%8E;I+don't+trust+people+who+write+SQL+in+lowercase" alt="Typing SVG" />
     </a>
   </p>
 </div>
 
-<!-- Dynamic Spotify Player Card (Clicking directly opens your Spotify profile to connect/listen) -->
+<!-- Dynamic Spotify Player Card (Linked directly to your Spotify account) -->
 <p align="center">
-  <a href="https://open.spotify.com/user/313nk6642wkojkahsxakz5ry5e2y?si=iksQT_W4TjyUh5BWkrpUQQ" target="_blank" rel="noopener noreferrer">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313nk6642wkojkahsxakz5ry5e2y&count=1&width=420" alt="Currently Playing on Spotify" style="max-width: 100%;">
+  <a href="https://open.spotify.com/user/31zxwfeuffnuonaulgkmxipukcba?si=VK3OhXhlTg--oKEUvxi4lA" target="_blank" rel="noopener noreferrer">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zxwfeuffnuonaulgkmxipukcba&count=1&width=420" alt="Currently Playing on Spotify" style="max-width: 100%;">
   </a>
 </p>
 
-<!-- Social Links -->
+<!-- Social Links (Enlarged Icons) -->
 <p align="center" dir="auto">
 <a href="https://twitter.com/cigarillloo" rel="nofollow">
-  <img alt="guilyx | Twitter" width="46px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%;">
+  <img alt="Twitter" width="62px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%; margin: 0 4px;">
 </a>
-&nbsp;
 <a href="https://linkedin.com/in/pgsohail" rel="nofollow">
-  <img alt="Sohail's LinkedIn" width="46px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/linkedin%20(1).png" style="max-width: 100%;">
+  <img alt="LinkedIn" width="62px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/linkedin%20(1).png" style="max-width: 100%; margin: 0 4px;">
 </a>
-&nbsp;
 <a href="https://www.instagram.com/pgsohaill/" rel="nofollow">
-  <img alt="Instagram" width="46px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" style="max-width: 100%;">
+  <img alt="Instagram" width="62px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" style="max-width: 100%; margin: 0 4px;">
 </a>
-&nbsp;
-<a href="https://open.spotify.com/user/313nk6642wkojkahsxakz5ry5e2y?si=iksQT_W4TjyUh5BWkrpUQQ" rel="nofollow">
-  <img alt="Spotify" width="46px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%;">
+<a href="https://open.spotify.com/user/31zxwfeuffnuonaulgkmxipukcba?si=VK3OhXhlTg--oKEUvxi4lA" rel="nofollow">
+  <img alt="Spotify" width="62px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" style="max-width: 100%; margin: 0 4px;">
 </a>
-&nbsp;
 <a href="https://t.me/pgsohail" rel="nofollow">
-  <img alt="Telegram" width="46px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/telegram%20-%20Copy.png" style="max-width: 100%;">
+  <img alt="Telegram" width="62px" src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/telegram%20-%20Copy.png" style="max-width: 100%; margin: 0 4px;">
 </a>
 </p>
 
 <br>
 
 <p dir="auto">
-I am a <b>Full-Stack and Blockchain Developer</b> based in London, UK, currently pursuing a <b>Master’s degree in Artificial Intelligence</b> at the <b>University of East London</b>[cite: 1]. I hold a Bachelor's degree in Software Engineering from <b>COMSATS University Islamabad</b> and completed a full-stack software engineering bootcamp at <b>App Academy</b>[cite: 1].
+I am a <b>Full-Stack and Blockchain Developer</b> based in London, UK, currently pursuing a <b>Master’s degree in Artificial Intelligence</b> at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>. I hold a Bachelor's degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a> and completed an intensive software engineering bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>.
 </p>
 
 <p dir="auto">
-My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, high-performance web/mobile applications with <b>React, Node.js, and Flutter</b>, and production AI/CV systems[cite: 1]. With a background delivering scalable fintech architectures and cloud solutions across <b>AWS, Azure, and GCP</b>, I am passionate about crafting fluid UI interactions, robust cybersecurity, and scalable distributed systems[cite: 1].
+My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, high-performance web/mobile applications with <b>React, Node.js, and Flutter</b>, and production AI/CV systems. With a background delivering scalable fintech architectures and cloud solutions across <b>AWS, Azure, and GCP</b>, I am passionate about crafting fluid UI interactions, robust cybersecurity, and scalable distributed systems.
 </p>
 
 <ul dir="auto">
-<li>🔭 <b>Current Work:</b> Developing MultiversX smart contracts at Philanthrify & researching AI, Computer Vision, & AR applications in apparel and retail[cite: 1].</li>
-<li>💬 <b>Brainstorm with me:</b> Rust, dApps, Smart Contracts, Distributed Systems, Flutter, and FinTech[cite: 1].</li>
+<li>🔭 <b>Current Work:</b> Developing MultiversX smart contracts at Philanthrify & researching AI, Computer Vision, & AR applications in apparel and retail.</li>
+<li>💬 <b>Brainstorm with me:</b> Rust, dApps, Smart Contracts, Distributed Systems, Flutter, and FinTech.</li>
 <li>😄 <b>Pronouns:</b> Programmer/He/Him</li>
-<li>📝 <a href="./Sohail_Sadiq_CV.pdf" target="_blank"><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></a></li>
-<li>💼 <b>Community & Network:</b> 13,000+ LinkedIn network, workshop mentor, and open-source contributor[cite: 1].</li>
-<li>🎓 <b>Education:</b> MSc Artificial Intelligence (Univ. of East London) | BS Software Engineering (COMSATS)[cite: 1].</li>
-<li>🌐 <b>OS of Choice:</b> Arch Linux & Fedora.</li>
+<li>📝 <a href="./Sohail_Sadiq_CV.pdf" target="_blank"><u><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></u></a></li>
+<li>💼 <b>Community & Network:</b> 13,000+ LinkedIn network, workshop mentor, and open-source contributor.</li>
+<li>🎓 <b>Education:</b> MSc Artificial Intelligence (<a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>UEL</u></a>) | BS Software Engineering (<a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS</u></a>).</li>
+<li>🍎 <b>Daily Driver:</b> MacBook (macOS) & Linux on the side.</li>
 </ul>
 
 <h3 dir="auto">
@@ -75,7 +71,9 @@ My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, 
 <div class="highlight highlight-source-cs position-relative overflow-auto">
 <pre><span class="pl-smi">pgsohail@github</span>
 <span class="pl-k">------------------------------------</span>
-<span class="pl-en">OS</span>: <span class="pl-smi">Arch Linux x86_64 / Fedora</span>
+<span class="pl-en">OS</span>: <span class="pl-smi">macOS (Apple Silicon) / Linux</span>
+<span class="pl-en">Host</span>: <span class="pl-smi">MacBook</span>
+<span class="pl-en">Shell</span>: <span class="pl-smi">zsh</span>
 <span class="pl-en">Role</span>: <span class="pl-smi">Full-Stack & Blockchain Developer</span>
 <span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>
 <span class="pl-en">Education</span>: <span class="pl-smi">MSc Artificial Intelligence (UEL)</span>
@@ -89,10 +87,10 @@ My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, 
 
 <!-- Tech Badges -->
 <p align="center" dir="auto">
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" alt="macOS">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" alt="Rust">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart">
 </p>
 
@@ -107,8 +105,7 @@ My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, 
 <p align="center" dir="auto">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&logoColor=white&style=for-the-badge" alt="Fedora">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" alt="Linux">
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VSCode">
 </p>
 </details>
