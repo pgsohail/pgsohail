@@ -8,7 +8,7 @@
   <i>⚡️ just a techie ⚡️</i>
 </h5>
 
-<!-- Live Spotify Widget (Auto-synced with what you play) -->
+<!-- Live Spotify Widget -->
 <p align="center">
   <a href="https://open.spotify.com/user/31zxwfeuffnuonaulgkmxipukcba" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zxwfeuffnuonaulgkmxipukcba&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=ff3333&bar_color_cover=false&mode=dark" alt="Spotify Player" style="width: 320px; max-width: 100%;">
@@ -36,16 +36,16 @@
 </p>
 <br>
 
-<p dir="auto"> I'm a Full Stack and Blockchain Developer based in London[cite: 1], currently pursuing a Master's degree in Artificial Intelligence at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>[cite: 1]. I hold a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a>[cite: 1] and have successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>[cite: 1], further enhancing my skills and expertise. My focus revolves around developing secure smart contracts with Rust and MultiversX[cite: 1], creating engaging UI effects, animations, and dynamic user experiences with React and Flutter while prioritizing cybersecurity[cite: 1]. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature[cite: 1]. Let's connect and explore exciting opportunities together! </p>
+<p dir="auto"> I'm a Full Stack and Blockchain Developer based in London, currently pursuing a Master's degree in Artificial Intelligence at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>. I hold a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a> and have successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>, further enhancing my skills and expertise. My focus revolves around developing secure smart contracts with Rust and MultiversX, creating engaging UI effects, animations, and dynamic user experiences with React and Flutter while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together! </p>
 
 <ul dir="auto">
-<li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, &amp; 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕[cite: 1].</li>
+<li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, &amp; 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕.</li>
 <li>💬 𝙱𝚛𝚊𝚒𝚗𝚜𝚝𝚘𝚛𝚖 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚟𝚎𝚛 𝚝𝚎𝚌𝚑, 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜, 𝚌𝚊𝚛𝚎𝚎𝚛, 𝚊𝚗𝚍 𝚖𝚞𝚜𝚒𝚌.</li>
 <li>😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛/𝙷𝚎/𝙷𝚒𝚖</li>
 <li>📝 <a href="https://github.com/pgsohail/pgsohail/blob/main/Sohail_Sadiq_CV.pdf" target="_blank"><u><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></u></a></li>
 <li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜</li>
-<li>💼 "𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚌𝚘𝚍𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛."[cite: 1]</li>
-<li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚂 𝙰𝙸, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝟸𝟶𝟸𝟼[cite: 1]</li>
+<li>💼 "𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚌𝚘𝚍𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛."</li>
+<li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚂 𝙰𝙸, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝟸𝟶𝟸𝟼</li>
 <li>🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</li>
 <li>🍎 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝚊 𝙼𝚊𝚌𝙱𝚘𝚘𝚔</li>
 </ul>
@@ -57,7 +57,7 @@
 </h3>
 
 <details>
-<summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji><strong>CLICK HERE</strong></summary>
+<summary><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️️</g-emoji><strong>CLICK HERE</strong></summary>
 <br>
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
 <div class="highlight highlight-source-shell position-relative overflow-auto"><pre><span class="pl-k">&gt;</span> neofetch</pre></div>
@@ -68,12 +68,12 @@
 <span class="pl-en">Host</span>: <span class="pl-smi">MacBook</span>
 <span class="pl-en">Shell</span>: <span class="pl-smi">zsh</span>
 <span class="pl-en">Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
-<span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>[cite: 1]
-<span class="pl-en">Frameworks</span>: <span class="pl-smi">React, Node.js, Flutter, Express</span>[cite: 1]
-<span class="pl-en">Languages</span>: <span class="pl-smi">Rust, Python, JavaScript, Dart, SQL</span>[cite: 1]
-<span class="pl-en">Blockchain</span>: <span class="pl-smi">MultiversX, Smart Contracts, Web3</span>[cite: 1]
-<span class="pl-en">Cloud/DevOps</span>: <span class="pl-smi">AWS, Azure, GCP, Docker</span>[cite: 1]
-<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting, football, gaming, English literature</span>[cite: 1]
+<span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>
+<span class="pl-en">Frameworks</span>: <span class="pl-smi">React, Node.js, Flutter, Express</span>
+<span class="pl-en">Languages</span>: <span class="pl-smi">Rust, Python, JavaScript, Dart, SQL</span>
+<span class="pl-en">Blockchain</span>: <span class="pl-smi">MultiversX, Smart Contracts, Web3</span>
+<span class="pl-en">Cloud/DevOps</span>: <span class="pl-smi">AWS, Azure, GCP, Docker</span>
+<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting, football, gaming, English literature</span>
 <span class="pl-en">Discord</span>: <span class="pl-smi">pgsohail</span></pre></div>
 
 <p align="center" dir="auto">
