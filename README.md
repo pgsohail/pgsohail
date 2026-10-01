@@ -1,25 +1,22 @@
 <h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
 
-<!-- Animated Header with Bold White Text on Crimson Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#e52d27,100:#b31217&height=180&section=header&text=Sohail%20Sadiq&fontSize=50&fontAlignY=38&desc=Full-Stack%20%26%20Blockchain%20Developer%20%7C%20AI%20%26%20Cloud&descSize=17&descAlignY=62&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%" alt="Sohail Sadiq Header"/>
+<!-- Name Header -->
+<h1 align="center">
+  🤠 Hi! I am <span style="color: #ff3333; font-weight: bold;">Sohail Sadiq</span>
+</h1>
 
-  <!-- Minimal Animated Typing Line -->
-  <p align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=E52D27&center=true&vCenter=true&width=550&lines=%E2%9A%A1%EF%B8%8F+Full-Stack+%26+Blockchain+Developer;Rust+%7C+Python+%7C+MultiversX+%7C+React+%7C+Flutter;MSc+Artificial+Intelligence+%40+Univ.+of+East+London;btw+I+use+a+MacBook+%F0%9F%8D%8E;I+don't+trust+people+who+write+SQL+in+lowercase" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
+<h4 align="center">
+  <i>⚡️ Full-Stack & Blockchain Developer | AI & Cloud ⚡️</i>
+</h4>
 
-<!-- Dynamic Spotify Player Card (Linked directly to your Spotify account) -->
+<!-- Dynamic Spotify Player Card -->
 <p align="center">
   <a href="https://open.spotify.com/user/31zxwfeuffnuonaulgkmxipukcba?si=VK3OhXhlTg--oKEUvxi4lA" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zxwfeuffnuonaulgkmxipukcba&count=1&width=420" alt="Currently Playing on Spotify" style="max-width: 100%;">
   </a>
 </p>
 
-<!-- Social Links (Enlarged Icons) -->
+<!-- Social Links (Large Icons) -->
 <p align="center" dir="auto">
 <a href="https://twitter.com/cigarillloo" rel="nofollow">
   <img alt="Twitter" width="62px" src="https://user-images.githubusercontent.com/43545812/144034996-602b144a-16e1-41cc-99e7-c6040b20dcaf.png" style="max-width: 100%; margin: 0 4px;">
@@ -41,20 +38,20 @@
 <br>
 
 <p dir="auto">
-I am a <b>Full-Stack and Blockchain Developer</b> based in London, UK, currently pursuing a <b>Master’s degree in Artificial Intelligence</b> at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>. I hold a Bachelor's degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a> and completed an intensive software engineering bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>.
+I am a <b>Full-Stack and Blockchain Developer</b> based in London, UK[cite: 1], currently pursuing a <b>Master’s degree in Artificial Intelligence</b> at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>[cite: 1]. I hold a Bachelor's degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a> and completed an intensive software engineering bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>[cite: 1].
 </p>
 
 <p dir="auto">
-My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, high-performance web/mobile applications with <b>React, Node.js, and Flutter</b>, and production AI/CV systems. With a background delivering scalable fintech architectures and cloud solutions across <b>AWS, Azure, and GCP</b>, I am passionate about crafting fluid UI interactions, robust cybersecurity, and scalable distributed systems.
+My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, high-performance web/mobile applications with <b>React, Node.js, and Flutter</b>, and production AI/CV systems[cite: 1]. With a background delivering scalable fintech architectures and cloud solutions across <b>AWS, Azure, and GCP</b>, I am passionate about crafting fluid UI interactions, robust cybersecurity, and scalable distributed systems[cite: 1].
 </p>
 
 <ul dir="auto">
-<li>🔭 <b>Current Work:</b> Developing MultiversX smart contracts at Philanthrify & researching AI, Computer Vision, & AR applications in apparel and retail.</li>
-<li>💬 <b>Brainstorm with me:</b> Rust, dApps, Smart Contracts, Distributed Systems, Flutter, and FinTech.</li>
+<li>🔭 <b>Current Work:</b> Developing MultiversX smart contracts at Philanthrify & researching AI, Computer Vision, & AR applications in apparel and retail[cite: 1].</li>
+<li>💬 <b>Brainstorm with me:</b> Rust, dApps, Smart Contracts, Distributed Systems, Flutter, and FinTech[cite: 1].</li>
 <li>😄 <b>Pronouns:</b> Programmer/He/Him</li>
-<li>📝 <a href="./Sohail_Sadiq_CV.pdf" target="_blank"><u><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></u></a></li>
-<li>💼 <b>Community & Network:</b> 13,000+ LinkedIn network, workshop mentor, and open-source contributor.</li>
-<li>🎓 <b>Education:</b> MSc Artificial Intelligence (<a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>UEL</u></a>) | BS Software Engineering (<a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS</u></a>).</li>
+<li>📝 <a href="https://github.com/pgsohail/pgsohail/blob/main/Sohail_Sadiq_CV.pdf" target="_blank"><u><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></u></a></li>
+<li>💼 <b>Community & Network:</b> 13,000+ LinkedIn network, workshop mentor, and open-source contributor[cite: 1].</li>
+<li>🎓 <b>Education:</b> MSc Artificial Intelligence (<a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>UEL</u></a>) | BS Software Engineering (<a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS</u></a>)[cite: 1].</li>
 <li>🍎 <b>Daily Driver:</b> MacBook (macOS) & Linux on the side.</li>
 </ul>
 
@@ -112,7 +109,7 @@ My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, 
 
 <br>
 
-<!-- Minimal Animated GitHub Activity -->
+<!-- Activity -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgsohail&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
