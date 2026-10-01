@@ -1,6 +1,6 @@
 <h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
 
-<!-- Animated Header with Bold White Text on Crimson Red Wave -->
+<!-- Animated Header with Bold White Text on Crimson Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=0:#e52d27,100:#b31217&height=180&section=header&text=Sohail%20Sadiq&fontSize=50&fontAlignY=38&desc=Full-Stack%20%26%20Blockchain%20Developer%20%7C%20AI%20%26%20Cloud&descSize=17&descAlignY=62&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%" alt="Sohail Sadiq Header"/>
 
@@ -12,7 +12,7 @@
   </p>
 </div>
 
-<!-- Dynamic Spotify Player Card (Clicking opens your Spotify profile to connect/listen) -->
+<!-- Dynamic Spotify Player Card (Clicking directly opens your Spotify profile to connect/listen) -->
 <p align="center">
   <a href="https://open.spotify.com/user/313nk6642wkojkahsxakz5ry5e2y?si=iksQT_W4TjyUh5BWkrpUQQ" target="_blank" rel="noopener noreferrer">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=313nk6642wkojkahsxakz5ry5e2y&count=1&width=420" alt="Currently Playing on Spotify" style="max-width: 100%;">
@@ -45,18 +45,20 @@
 <br>
 
 <p dir="auto">
-I am a <b>Full-Stack and Blockchain Developer</b> based in London, UK, currently pursuing a <b>Master’s degree in Artificial Intelligence</b> at the <b>University of East London</b>. I hold a Bachelor's degree in Software Engineering from <b>COMSATS University Islamabad</b> and completed a rigorous software engineering bootcamp at <b>App Academy</b>.
+I am a <b>Full-Stack and Blockchain Developer</b> based in London, UK, currently pursuing a <b>Master’s degree in Artificial Intelligence</b> at the <b>University of East London</b>[cite: 1]. I hold a Bachelor's degree in Software Engineering from <b>COMSATS University Islamabad</b> and completed a full-stack software engineering bootcamp at <b>App Academy</b>[cite: 1].
 </p>
 
 <p dir="auto">
-My expertise spans developing high-throughput smart contracts with <b>Rust & MultiversX</b>, scalable full-stack applications with <b>React, Node.js, and Flutter</b>, and production AI/CV pipelines. Recognized for architectural problem-solving, UI/UX refinement, and robust system security, I have delivered solutions across fintech, dApps, and cloud architectures (AWS, Azure, GCP).
+My focus spans developing secure smart contracts with <b>Rust & MultiversX</b>, high-performance web/mobile applications with <b>React, Node.js, and Flutter</b>, and production AI/CV systems[cite: 1]. With a background delivering scalable fintech architectures and cloud solutions across <b>AWS, Azure, and GCP</b>, I am passionate about crafting fluid UI interactions, robust cybersecurity, and scalable distributed systems[cite: 1].
 </p>
 
 <ul dir="auto">
-<li>🔭 <b>Current Work:</b> Developing MultiversX smart contracts at Philanthrify & researching AI, Computer Vision, & AR for retail systems.</li>
-<li>🎓 <b>Education:</b> MSc Artificial Intelligence (Univ. of East London) | BS Software Engineering (COMSATS).</li>
-<li>💬 <b>Brainstorm with me:</b> Rust, dApps, Smart Contracts, Distributed Systems, Flutter, and FinTech.</li>
-<li>💼 <b>Open Source & Community:</b> 13,000+ LinkedIn network, workshop mentor, and open-source contributor.</li>
+<li>🔭 <b>Current Work:</b> Developing MultiversX smart contracts at Philanthrify & researching AI, Computer Vision, & AR applications in apparel and retail[cite: 1].</li>
+<li>💬 <b>Brainstorm with me:</b> Rust, dApps, Smart Contracts, Distributed Systems, Flutter, and FinTech[cite: 1].</li>
+<li>😄 <b>Pronouns:</b> Programmer/He/Him</li>
+<li>📝 <a href="./Sohail_Sadiq_CV.pdf" target="_blank"><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></a></li>
+<li>💼 <b>Community & Network:</b> 13,000+ LinkedIn network, workshop mentor, and open-source contributor[cite: 1].</li>
+<li>🎓 <b>Education:</b> MSc Artificial Intelligence (Univ. of East London) | BS Software Engineering (COMSATS)[cite: 1].</li>
 <li>🌐 <b>OS of Choice:</b> Arch Linux & Fedora.</li>
 </ul>
 
@@ -113,12 +115,12 @@ My expertise spans developing high-throughput smart contracts with <b>Rust & Mul
 
 <br>
 
-<!-- Dynamic GitHub Activity & Metrics -->
+<!-- Minimal Animated GitHub Activity -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgsohail&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
 </p>
 
-<!-- Cool Digital Counter Visitor Badge -->
+<!-- Digital Visitor Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pgsohail&label=PROFILE+VIEWS&color=e52d27&style=for-the-badge&base=1420" alt="Visitor Views Badge">
 </p>
