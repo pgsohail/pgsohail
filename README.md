@@ -1,8 +1,63 @@
 <h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
 
-<!-- Animated Matrix / Digital Rain Header Falling Over Sohail Sadiq -->
+<!-- Self-Contained SVG: Falling Rain Animation Over Sohail Sadiq -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&amp;color=0:ff2a2a,100:880000&amp;height=210&amp;section=header&amp;text=Sohail%20Sadiq&amp;fontSize=56&amp;fontColor=ff2a2a&amp;stroke=ff0000&amp;strokeWidth=1&amp;animation=falling&amp;fontAlignY=46&amp;desc=%E2%9A%A1%EF%B8%8F%20just%20a%20techie%20%E2%9A%A1%EF%B8%8F&amp;descSize=18&amp;descColor=ffffff&amp;descAlignY=68" width="100%" alt="Sohail Sadiq Raining Animation Header"/>
+  <svg width="100%" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .name-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 800;
+        fill: #ff3333;
+        letter-spacing: 1px;
+      }
+      .sub-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 15px;
+        font-style: italic;
+        fill: #e6edf3;
+      }
+      .drop {
+        stroke: #ff4d4d;
+        stroke-width: 1.5;
+        stroke-linecap: round;
+        opacity: 0.7;
+        animation: fall linear infinite;
+      }
+      @keyframes fall {
+        0% { transform: translateY(-20px); opacity: 0; }
+        20% { opacity: 0.8; }
+        85% { opacity: 0.8; }
+        100% { transform: translateY(160px); opacity: 0; }
+      }
+      .d1 { animation-duration: 1.1s; animation-delay: 0.1s; }
+      .d2 { animation-duration: 0.9s; animation-delay: 0.4s; }
+      .d3 { animation-duration: 1.3s; animation-delay: 0.2s; }
+      .d4 { animation-duration: 1.0s; animation-delay: 0.7s; }
+      .d5 { animation-duration: 0.8s; animation-delay: 0.3s; }
+      .d6 { animation-duration: 1.2s; animation-delay: 0.5s; }
+      .d7 { animation-duration: 0.95s; animation-delay: 0.6s; }
+      .d8 { animation-duration: 1.15s; animation-delay: 0.15s; }
+      .d9 { animation-duration: 1.05s; animation-delay: 0.45s; }
+      .d10 { animation-duration: 1.25s; animation-delay: 0.8s; }
+    </style>
+
+    <!-- Rain Drops -->
+    <line class="drop d1" x1="120" y1="0" x2="115" y2="18" />
+    <line class="drop d2" x1="190" y1="0" x2="185" y2="20" />
+    <line class="drop d3" x1="260" y1="0" x2="255" y2="16" />
+    <line class="drop d4" x1="330" y1="0" x2="325" y2="22" />
+    <line class="drop d5" x1="400" y1="0" x2="395" y2="19" />
+    <line class="drop d6" x1="470" y1="0" x2="465" y2="17" />
+    <line class="drop d7" x1="540" y1="0" x2="535" y2="21" />
+    <line class="drop d8" x1="610" y1="0" x2="605" y2="18" />
+    <line class="drop d9" x1="680" y1="0" x2="675" y2="20" />
+    <line class="drop d10" x1="740" y1="0" x2="735" y2="16" />
+
+    <!-- Name and Tagline -->
+    <text x="50%" y="70" text-anchor="middle" class="name-text">🤠 Hi! I am Sohail Sadiq</text>
+    <text x="50%" y="105" text-anchor="middle" class="sub-text">⚡️just a techie⚡️</text>
+  </svg>
 </div>
 
 <!-- Spotify Animated Visualizer -->
@@ -65,12 +120,12 @@
 <span class="pl-en">Host</span>: <span class="pl-smi">MacBook</span>
 <span class="pl-en">Shell</span>: <span class="pl-smi">zsh</span>
 <span class="pl-en">Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
-<span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>
-<span class="pl-en">Frameworks</span>: <span class="pl-smi">React, Node.js, Flutter, Express</span>
-<span class="pl-en">Languages</span>: <span class="pl-smi">Rust, Python, JavaScript, Dart, SQL</span>
-<span class="pl-en">Blockchain</span>: <span class="pl-smi">MultiversX, Smart Contracts, Web3</span>
-<span class="pl-en">Cloud/DevOps</span>: <span class="pl-smi">AWS, Azure, GCP, Docker</span>
-<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting, football, gaming, English literature</span>
+<span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>[cite: 1]
+<span class="pl-en">Frameworks</span>: <span class="pl-smi">React, Node.js, Flutter, Express</span>[cite: 1]
+<span class="pl-en">Languages</span>: <span class="pl-smi">Rust, Python, JavaScript, Dart, SQL</span>[cite: 1]
+<span class="pl-en">Blockchain</span>: <span class="pl-smi">MultiversX, Smart Contracts, Web3</span>[cite: 1]
+<span class="pl-en">Cloud/DevOps</span>: <span class="pl-smi">AWS, Azure, GCP, Docker</span>[cite: 1]
+<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting, football, gaming, English literature</span>[cite: 1]
 <span class="pl-en">Discord</span>: <span class="pl-smi">pgsohail</span></pre></div>
 
 <p align="center" dir="auto">
