@@ -8,10 +8,10 @@
   <i>⚡️just a techie⚡️</i>
 </h5>
 
-<!-- Verified Animated Spotify Visualizer -->
+<!-- Spotify Animated Visualizer -->
 <p align="center">
   <a href="https://open.spotify.com/user/31zxwfeuffnuonaulgkmxipukcba" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/pgsohail/game-dev-assignments/main/spotify-banner.svg" onerror="this.onerror=null;this.src='https://svg-banners.vercel.app/api?type=origin&text1=SPOTIFY%20%E2%99%AC&text2=Listen%20along%20with%20me&width=450&height=120&theme=dark';" style="width: 45%; max-width: 420px;" alt="Spotify Widget">
+    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="width: 45%; max-width: 420px;" alt="Spotify Widget">
   </a>
 </p>
 
