@@ -8,10 +8,10 @@
   <i>⚡️just a techie⚡️</i>
 </h5>
 
-<!-- Spotify Widget -->
+<!-- Real-Time Dynamic Spotify Card -->
 <p align="center">
   <a href="https://open.spotify.com/user/31zxwfeuffnuonaulgkmxipukcba" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg" style="width: 45%; max-width: 420px;" alt="Spotify Widget">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zxwfeuffnuonaulgkmxipukcba&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Spotify Live Status" style="max-width: 480px; width: 100%;">
   </a>
 </p>
 
