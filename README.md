@@ -1,17 +1,12 @@
 <h3 tabindex="-1" dir="auto"><a id="user-content-npx-fka" class="anchor" aria-hidden="true" tabindex="-1" href="#npx-fka"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0 2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><code>npx fka</code></h3>
 
-<!-- Animated Digital Rain Banner -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/8554143/127498966-dd59fc85-49a6-4741-859d-2b9b65757563.gif" width="100%" height="90px" style="max-height: 90px; object-fit: cover; opacity: 0.85;" alt="Digital Rain Animation" />
+<h1 align="center">
+  🤠 Hi! I am <span style="color: #ff3333; font-weight: bold;">Sohail Sadiq</span>
+</h1>
 
-  <h2 align="center" style="margin-top: 10px; margin-bottom: 4px;">
-    🤠 Hi! I am <span style="color: #ff3333; font-weight: 800;">Sohail Sadiq</span>
-  </h2>
-  
-  <p align="center" style="margin-top: 0; color: #8b949e; font-style: italic;">
-    ⚡️ just a techie ⚡️
-  </p>
-</div>
+<h5 align="center" dir="auto">
+  <i>⚡️just a techie⚡️</i>
+</h5>
 
 <!-- Spotify Widget -->
 <p align="center">
@@ -41,16 +36,16 @@
 </p>
 <br>
 
-<p dir="auto"> I'm a Full Stack and Blockchain Developer based in London, currently pursuing a Master's degree in Artificial Intelligence at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>. I hold a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a> and have successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>, further enhancing my skills and expertise. My focus revolves around developing secure smart contracts with Rust and MultiversX, creating engaging UI effects, animations, and dynamic user experiences with React and Flutter while prioritizing cybersecurity. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature. Let's connect and explore exciting opportunities together! </p>
+<p dir="auto"> I'm a Full Stack and Blockchain Developer based in London[cite: 1], currently pursuing a Master's degree in Artificial Intelligence at the <a href="https://www.uel.ac.uk/" target="_blank" rel="noopener noreferrer"><u>University of East London</u></a>[cite: 1]. I hold a degree in Software Engineering from <a href="https://www.comsats.edu.pk/" target="_blank" rel="noopener noreferrer"><u>COMSATS University Islamabad</u></a>[cite: 1] and have successfully completed a rigorous bootcamp at <a href="https://www.appacademy.io/" target="_blank" rel="noopener noreferrer"><u>App Academy</u></a>[cite: 1], further enhancing my skills and expertise. My focus revolves around developing secure smart contracts with Rust and MultiversX[cite: 1], creating engaging UI effects, animations, and dynamic user experiences with React and Flutter while prioritizing cybersecurity[cite: 1]. Recognized for my organizational skills, adept problem-solving, and attention to detail, I am enthusiastic about contributing to ambitious projects with a positive team. Outside of coding, I enjoy football, outdoor activities, watching TV series, and diving into English literature[cite: 1]. Let's connect and explore exciting opportunities together! </p>
 
 <ul dir="auto">
-<li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, &amp; 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕.</li>
+<li>🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚒𝚗𝚐 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚜𝚎 𝚘𝚏 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚅𝚒𝚛𝚝𝚞𝚊𝚕, &amp; 𝙰𝚞𝚐𝚖𝚎𝚗𝚝𝚎𝚍 𝚁𝚎𝚊𝚕𝚒𝚝𝚢 𝚒𝚗 𝙰𝚙𝚙𝚊𝚛𝚎𝚕[cite: 1].</li>
 <li>💬 𝙱𝚛𝚊𝚒𝚗𝚜𝚝𝚘𝚛𝚖 𝚠𝚒𝚝𝚑 𝚖𝚎 𝚘𝚟𝚎𝚛 𝚝𝚎𝚌𝚑, 𝚊𝚕𝚐𝚘𝚛𝚒𝚝𝚑𝚖𝚜, 𝚌𝚊𝚛𝚎𝚎𝚛, 𝚊𝚗𝚍 𝚖𝚞𝚜𝚒𝚌.</li>
 <li>😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜: 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛/𝙷𝚎/𝙷𝚒𝚖</li>
 <li>📝 <a href="https://github.com/pgsohail/pgsohail/blob/main/Sohail_Sadiq_CV.pdf" target="_blank"><u><b>𝚁𝚎𝚜𝚞𝚖𝚎 (Download CV)</b></u></a></li>
 <li>🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜</li>
-<li>💼 "𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚌𝚘𝚍𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛."</li>
-<li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚂 𝙰𝙸, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝟸𝟶𝟸𝟼</li>
+<li>💼 "𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎: 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎, 𝚌𝚘𝚍𝚎 𝚝𝚘𝚐𝚎𝚝𝚑𝚎𝚛."[cite: 1]</li>
+<li>🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝚂 𝙰𝙸, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 𝟸𝟶𝟸𝟼[cite: 1]</li>
 <li>🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋.</li>
 <li>🍎 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝚊 𝙼𝚊𝚌𝙱𝚘𝚘𝚔</li>
 </ul>
@@ -73,12 +68,12 @@
 <span class="pl-en">Host</span>: <span class="pl-smi">MacBook</span>
 <span class="pl-en">Shell</span>: <span class="pl-smi">zsh</span>
 <span class="pl-en">Pronouns</span>: <span class="pl-smi">He</span><span class="pl-k">/</span><span class="pl-smi">Him</span>
-<span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>
-<span class="pl-en">Frameworks</span>: <span class="pl-smi">React, Node.js, Flutter, Express</span>
-<span class="pl-en">Languages</span>: <span class="pl-smi">Rust, Python, JavaScript, Dart, SQL</span>
-<span class="pl-en">Blockchain</span>: <span class="pl-smi">MultiversX, Smart Contracts, Web3</span>
-<span class="pl-en">Cloud/DevOps</span>: <span class="pl-smi">AWS, Azure, GCP, Docker</span>
-<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting, football, gaming, English literature</span>
+<span class="pl-en">Location</span>: <span class="pl-smi">London, UK</span>[cite: 1]
+<span class="pl-en">Frameworks</span>: <span class="pl-smi">React, Node.js, Flutter, Express</span>[cite: 1]
+<span class="pl-en">Languages</span>: <span class="pl-smi">Rust, Python, JavaScript, Dart, SQL</span>[cite: 1]
+<span class="pl-en">Blockchain</span>: <span class="pl-smi">MultiversX, Smart Contracts, Web3</span>[cite: 1]
+<span class="pl-en">Cloud/DevOps</span>: <span class="pl-smi">AWS, Azure, GCP, Docker</span>[cite: 1]
+<span class="pl-en">Hobbies</span>: <span class="pl-smi">drifting, football, gaming, English literature</span>[cite: 1]
 <span class="pl-en">Discord</span>: <span class="pl-smi">pgsohail</span></pre></div>
 
 <p align="center" dir="auto">
